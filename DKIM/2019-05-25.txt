@@ -1,0 +1,3 @@
+dk._domainkey	IN	TXT	( "v=DKIM1; h=sha256; k=rsa; "
+	  "p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA72aBVamvU43uXzXs/DyFuv91tomqKGqAUM1qPW1KbEOiHJYuHnEHH0gQtWgBG/Dxk6drq45Fr1mNED2IhyhKWMV69cHPnxcQW6HtBx9ClLlvbED+mtaaTxN4yX8y2G+Bc5hlmiQZBfYh9TsHw6Fh9wA3V6Ig7WJa4H/w2IYmR7MRpQiqcTzjcqPLZuHpDqU0S0fgESP/4pttiy"
+	  "x6nvffu9Pmqy83HrvFRA4LinIPx9WStHGRXjVO1AS/Uzm3aX/bBGKZ5/ojoqkvsu1/hx4U8o62AifwqTVCyC0jVBJ24/5iahnQB3S8uP8gacg6NBxX3tgqUlEF+/8PzYzc6pln5wIDAQAB" )  ; ----- DKIM key dk for localhost
