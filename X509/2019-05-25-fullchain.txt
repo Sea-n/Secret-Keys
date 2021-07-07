@@ -1,0 +1,107 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            03:b4:e7:b0:a9:86:5e:54:fc:a5:fb:56:fe:3e:39:53:99:c2
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3
+        Validity
+            Not Before: May 25 14:30:41 2019 GMT
+            Not After : Aug 23 14:30:41 2019 GMT
+        Subject: CN=sean.taipei
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c9:37:bf:f6:b6:0b:ac:12:63:58:67:07:70:25:
+                    64:1a:6e:45:1e:4b:d7:9f:d3:f7:3e:83:40:4c:9c:
+                    eb:46:30:0d:2a:f0:a0:9b:5b:a8:81:24:8b:f5:62:
+                    ea:d7:21:dc:e9:42:c9:b0:2f:df:02:c2:6f:e4:47:
+                    49:b7:7c:3e:2d:b5:c3:62:dc:78:8d:69:a6:07:c2:
+                    48:cc:4f:73:c3:7b:57:be:b3:c1:93:3c:51:4f:97:
+                    f5:71:39:ce:f8:97:89:de:ec:9d:10:60:72:7a:f1:
+                    b5:a9:8e:02:f7:ec:c7:54:b6:d5:61:05:b0:42:c0:
+                    64:d6:2c:75:da:8f:4c:13:5e:9b:33:12:a2:91:99:
+                    3f:b5:50:05:3d:c0:88:c4:25:5c:7f:b3:c6:31:fe:
+                    27:8f:43:73:e9:36:b5:87:b0:15:8e:28:c1:b5:2b:
+                    0e:7e:92:98:aa:52:b1:d6:bc:c4:34:45:c0:ca:40:
+                    d6:27:6f:5e:f3:c9:aa:b6:83:a9:b2:38:e3:38:5d:
+                    d7:37:64:08:77:c8:9b:fb:b8:0a:86:61:44:e8:5c:
+                    9b:20:cb:5b:6a:8b:61:01:b7:90:99:6d:5c:4f:f1:
+                    26:0e:d5:c0:fa:18:3b:cf:8b:a9:f2:6b:ad:77:eb:
+                    e8:1b:a7:48:01:1b:4b:fe:a9:36:14:9e:e1:4d:dd:
+                    c4:8b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                94:19:B8:94:87:A6:77:BB:77:BC:0C:1D:1D:EE:5A:2D:87:31:90:8D
+            X509v3 Authority Key Identifier: 
+                keyid:A8:4A:6A:63:04:7D:DD:BA:E6:D1:39:B7:A6:45:65:EF:F3:A8:EC:A1
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.int-x3.letsencrypt.org
+                CA Issuers - URI:http://cert.int-x3.letsencrypt.org/
+
+            X509v3 Subject Alternative Name: 
+                DNS:sean.cat, DNS:sean.taipei, DNS:telegre.at, DNS:tlgr.tw
+            X509v3 Certificate Policies: 
+                Policy: 2.23.140.1.2.1
+                Policy: 1.3.6.1.4.1.44947.1.1.1
+                  CPS: http://cps.letsencrypt.org
+
+            1.3.6.1.4.1.11129.2.4.2: 
+                ......v.oSv.1.1.....Q..w.......).....7.....j...~.....G0E. .(@P.}L7.]...c'K....-....n..V..`.!..M8aBFc..hP.s.7(.k[.CY....5......w.c....;.,..r.'Wk3..aw..u.8..hTK.....j.........H0F.!......q..I{{.........,yT.....=.,..!.....Y-.]{3...7..b3..=.......B7bb
+    Signature Algorithm: sha256WithRSAEncryption
+         0b:f0:2f:ed:03:a9:83:87:06:5a:f6:91:9f:18:d3:8b:b3:b2:
+         b4:c8:46:83:e1:00:6a:72:86:7c:21:db:68:2b:12:c8:77:42:
+         7e:0a:ea:e2:70:5f:e4:18:7b:79:58:d6:92:54:c7:99:a6:6f:
+         15:15:7f:6b:27:34:e8:7f:5c:39:d1:21:81:5e:33:54:cc:e8:
+         bd:eb:09:c5:89:d2:67:bf:27:64:06:b4:f7:94:52:b3:93:ca:
+         2f:ad:2b:e5:26:52:43:d2:0e:47:f4:a9:9f:48:c1:b5:0b:a4:
+         cb:f0:45:76:6f:cd:7e:60:98:0e:28:6f:86:a5:65:7b:2d:42:
+         ed:dd:fd:c7:e8:7b:96:8e:1b:8d:d5:72:72:e9:30:c6:7f:5a:
+         4c:1b:a7:1f:d5:7d:fe:de:00:f2:38:18:7c:1a:38:4a:48:8f:
+         9a:5a:ce:03:60:2d:e2:9f:a1:2e:d0:b6:ee:af:b6:af:ab:5b:
+         a2:dc:06:84:ba:93:d2:44:47:97:9f:ef:05:c5:f6:81:a8:56:
+         58:3b:b2:68:8b:44:06:b4:35:e4:38:09:28:54:f5:1b:9c:42:
+         f2:52:fa:75:0d:f2:09:73:37:0d:fe:86:fa:70:17:94:90:8a:
+         33:26:9c:ef:bd:a7:31:58:d6:cc:bb:06:32:02:64:16:cb:01:
+         06:bc:a2:c0
+-----BEGIN CERTIFICATE-----
+MIIFbjCCBFagAwIBAgISA7TnsKmGXlT8pftW/j45U5nCMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0xOTA1MjUxNDMwNDFaFw0x
+OTA4MjMxNDMwNDFaMBYxFDASBgNVBAMTC3NlYW4udGFpcGVpMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyTe/9rYLrBJjWGcHcCVkGm5FHkvXn9P3PoNA
+TJzrRjANKvCgm1uogSSL9WLq1yHc6ULJsC/fAsJv5EdJt3w+LbXDYtx4jWmmB8JI
+zE9zw3tXvrPBkzxRT5f1cTnO+JeJ3uydEGByevG1qY4C9+zHVLbVYQWwQsBk1ix1
+2o9ME16bMxKikZk/tVAFPcCIxCVcf7PGMf4nj0Nz6Ta1h7AVjijBtSsOfpKYqlKx
+1rzENEXAykDWJ29e88mqtoOpsjjjOF3XN2QId8ib+7gKhmFE6FybIMtbaothAbeQ
+mW1cT/EmDtXA+hg7z4up8mutd+voG6dIARtL/qk2FJ7hTd3EiwIDAQABo4ICgDCC
+AnwwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSUGbiUh6Z3u3e8DB0d7lothzGQjTAf
+BgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcBAQRjMGEw
+LgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlwdC5vcmcw
+LwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlwdC5vcmcv
+MDUGA1UdEQQuMCyCCHNlYW4uY2F0ggtzZWFuLnRhaXBlaYIKdGVsZWdyZS5hdIIH
+dGxnci50dzBMBgNVHSAERTBDMAgGBmeBDAECATA3BgsrBgEEAYLfEwEBATAoMCYG
+CCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNyeXB0Lm9yZzCCAQUGCisGAQQB
+1nkCBAIEgfYEgfMA8QB2AG9Tdqwx8DEZ2JkApFEV/3cVHBHZAsEAKQaNsgiaN9kT
+AAABau+djn4AAAQDAEcwRQIgHihAUNh9TDfaXZnoHmMnS7iX9rEtg+XGqm7iplaT
+jmACIQCkTThhQkZjrqVoUIBztzcot2tbrkNZpMiICDUVtQkeLgB3AGPy283oO8ws
+zwtyhCdXazOkjWF3j711pjixx2hUS9iNAAABau+dj9MAAAQDAEgwRgIhANu+wIHT
+cdgYSXt7Cx/bpB8RkbuoLHlUAOqlsdI9yyyWAiEAgQuhgVkt8l17M4MFrjcdqWIz
+Lvg9vrqpHfr7pkI3YmIwDQYJKoZIhvcNAQELBQADggEBAAvwL+0DqYOHBlr2kZ8Y
+04uzsrTIRoPhAGpyhnwh22grEsh3Qn4K6uJwX+QYe3lY1pJUx5mmbxUVf2snNOh/
+XDnRIYFeM1TM6L3rCcWJ0me/J2QGtPeUUrOTyi+tK+UmUkPSDkf0qZ9IwbULpMvw
+RXZvzX5gmA4ob4alZXstQu3d/cfoe5aOG43VcnLpMMZ/Wkwbpx/Vff7eAPI4GHwa
+OEpIj5pazgNgLeKfoS7Qtu6vtq+rW6LcBoS6k9JER5ef7wXF9oGoVlg7smiLRAa0
+NeQ4CShU9RucQvJS+nUN8glzNw3+hvpwF5SQijMmnO+9pzFY1sy7BjICZBbLAQa8
+osA=
+-----END CERTIFICATE-----

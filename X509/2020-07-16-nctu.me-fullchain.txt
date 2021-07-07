@@ -1,0 +1,107 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            04:bc:d5:bb:53:a7:cd:de:b3:e1:2c:41:bb:55:72:2a:a4:50
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3
+        Validity
+            Not Before: Jul 16 10:38:29 2020 GMT
+            Not After : Oct 14 10:38:29 2020 GMT
+        Subject: CN=nctu.me
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:dc:cd:d9:e1:6e:ee:bb:5c:4e:77:1c:78:15:c5:
+                    a4:33:8f:b9:d8:86:7b:75:5e:fa:30:aa:af:72:d9:
+                    ea:f7:48:49:c2:3c:79:e4:bf:95:b2:c8:7f:ed:e2:
+                    ca:fa:8c:f6:4d:3f:6c:04:3f:11:c2:51:d6:7c:d8:
+                    91:86:c4:41:ee:ac:98:c5:cf:44:cf:e9:64:23:a8:
+                    d8:7f:ce:22:43:49:3a:3e:e0:3a:9b:19:0f:98:73:
+                    93:0f:09:de:8d:66:1d:40:3d:ec:dc:6a:38:b6:a1:
+                    bc:aa:4d:77:d6:f9:d8:ea:2c:29:de:e2:77:19:aa:
+                    5d:00:cb:33:06:a8:0e:bf:dd:4b:01:60:58:88:fd:
+                    4e:e9:ca:23:09:51:2f:2a:fb:64:86:02:5c:e0:69:
+                    19:c1:2f:40:83:01:e8:22:a1:80:10:d2:83:f0:1f:
+                    28:d5:86:6f:72:6e:26:25:78:97:c9:4e:82:c2:c7:
+                    38:84:d6:ca:7a:f7:08:b1:68:5e:5d:45:ee:f5:2e:
+                    9e:58:a3:4c:59:0d:d4:de:1a:0e:49:33:b3:1b:d4:
+                    b5:30:46:27:f6:3d:09:02:d5:9c:70:01:99:84:29:
+                    81:25:3a:98:38:02:ea:27:3d:63:f6:68:e9:97:e8:
+                    01:b6:d2:ca:e2:fc:56:69:84:7c:37:fb:99:b9:92:
+                    a1:4b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                AD:DF:C1:20:35:2A:55:71:C5:66:07:03:47:76:8D:99:E0:78:B6:FB
+            X509v3 Authority Key Identifier: 
+                keyid:A8:4A:6A:63:04:7D:DD:BA:E6:D1:39:B7:A6:45:65:EF:F3:A8:EC:A1
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.int-x3.letsencrypt.org
+                CA Issuers - URI:http://cert.int-x3.letsencrypt.org/
+
+            X509v3 Subject Alternative Name: 
+                DNS:*.nctu.me, DNS:nctu.me
+            X509v3 Certificate Policies: 
+                Policy: 2.23.140.1.2.1
+                Policy: 1.3.6.1.4.1.44947.1.1.1
+                  CPS: http://cps.letsencrypt.org
+
+            1.3.6.1.4.1.11129.2.4.2: 
+                ......u......... N.f.+..% gk..p..IS-...^...sWk1,.....F0D. ...:;...+..j......lu.....'{..}.A. ."c$E.P+^....q.^......u.....Qg.P.v.oSv.1.1.....Q..w.......).....7.....sWk1Y.....G0E. Sz..Wi.<...M)..<.oj...(*......h..!.....F.Z.o..r..
+.3...7.<..1l.....
+    Signature Algorithm: sha256WithRSAEncryption
+         46:71:1b:84:55:44:22:47:19:0a:da:91:1c:c6:8b:48:70:0b:
+         f0:eb:ba:59:61:3e:51:b1:83:86:19:12:99:3c:38:b6:78:cc:
+         1a:00:e3:38:92:df:93:8e:d1:9a:3b:e6:5e:31:92:b7:ce:4d:
+         a1:6b:4c:a5:7b:38:d5:a1:26:ba:d9:b2:4f:9e:3e:f4:c8:17:
+         70:2f:18:2f:11:67:ae:03:f9:03:0e:a9:0f:93:d4:43:c1:71:
+         3b:e3:4f:43:bb:4f:37:a2:4b:67:45:1d:d3:cd:26:eb:b4:70:
+         a0:f9:b5:9d:ea:11:f3:38:17:18:bc:72:8a:91:64:71:d7:73:
+         7b:d0:ba:70:4e:d6:a3:f9:96:8f:ba:42:b7:5a:69:c7:c8:9b:
+         0e:65:5b:7d:6c:07:92:b5:e9:56:66:41:c5:8d:df:e9:c4:8c:
+         da:d4:21:b3:82:6d:a6:9c:43:b3:f0:da:dd:62:88:ee:ae:2f:
+         81:f5:7c:3d:39:e5:92:fa:54:4e:32:ab:35:6e:60:8c:96:99:
+         a0:df:03:82:65:78:9e:12:c0:ce:d8:5f:2e:45:d5:c9:6b:e4:
+         53:2f:c7:b8:8c:b4:a6:b8:98:f1:83:b5:6b:6d:64:04:88:f0:
+         c0:19:06:6f:02:55:0a:72:2a:97:63:4a:78:71:b6:be:ea:5f:
+         95:8f:01:86
+-----BEGIN CERTIFICATE-----
+MIIFUDCCBDigAwIBAgISBLzVu1Onzd6z4SxBu1VyKqRQMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0yMDA3MTYxMDM4MjlaFw0y
+MDEwMTQxMDM4MjlaMBIxEDAOBgNVBAMTB25jdHUubWUwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDczdnhbu67XE53HHgVxaQzj7nYhnt1Xvowqq9y2er3
+SEnCPHnkv5WyyH/t4sr6jPZNP2wEPxHCUdZ82JGGxEHurJjFz0TP6WQjqNh/ziJD
+STo+4DqbGQ+Yc5MPCd6NZh1APezcaji2obyqTXfW+djqLCne4ncZql0AyzMGqA6/
+3UsBYFiI/U7pyiMJUS8q+2SGAlzgaRnBL0CDAegioYAQ0oPwHyjVhm9ybiYleJfJ
+ToLCxziE1sp69wixaF5dRe71Lp5Yo0xZDdTeGg5JM7Mb1LUwRif2PQkC1ZxwAZmE
+KYElOpg4AuonPWP2aOmX6AG20sri/FZphHw3+5m5kqFLAgMBAAGjggJmMIICYjAO
+BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwG
+A1UdEwEB/wQCMAAwHQYDVR0OBBYEFK3fwSA1KlVxxWYHA0d2jZngeLb7MB8GA1Ud
+IwQYMBaAFKhKamMEfd265tE5t6ZFZe/zqOyhMG8GCCsGAQUFBwEBBGMwYTAuBggr
+BgEFBQcwAYYiaHR0cDovL29jc3AuaW50LXgzLmxldHNlbmNyeXB0Lm9yZzAvBggr
+BgEFBQcwAoYjaHR0cDovL2NlcnQuaW50LXgzLmxldHNlbmNyeXB0Lm9yZy8wHQYD
+VR0RBBYwFIIJKi5uY3R1Lm1lggduY3R1Lm1lMEwGA1UdIARFMEMwCAYGZ4EMAQIB
+MDcGCysGAQQBgt8TAQEBMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly9jcHMubGV0c2Vu
+Y3J5cHQub3JnMIIBAwYKKwYBBAHWeQIEAgSB9ASB8QDvAHUAsh4FzIuizYogTodm
++Su5iiUgZ2va+nDnsklTLe+LkF4AAAFzV2sxLAAABAMARjBEAiAYtpY6OwaoxCuM
+7GqzFKvsHZRsdage2b4UJ3uo3H3wQQIgBSJjJEW5UCtes6gHAHGuXs8I+e31o3X6
+LuAfplFn0FAAdgBvU3asMfAxGdiZAKRRFf93FRwR2QLBACkGjbIImjfZEwAAAXNX
+azFZAAAEAwBHMEUCIFN6+JFXaa08l+gFTSkIjzyqb2qst+YoKv/jBa/d/mihAiEA
+3azyo0YRWthvxolyArEK3zP3yKE3nzzphTFsjX+EsLowDQYJKoZIhvcNAQELBQAD
+ggEBAEZxG4RVRCJHGQrakRzGi0hwC/DrullhPlGxg4YZEpk8OLZ4zBoA4ziS35OO
+0Zo75l4xkrfOTaFrTKV7ONWhJrrZsk+ePvTIF3AvGC8RZ64D+QMOqQ+T1EPBcTvj
+T0O7TzeiS2dFHdPNJuu0cKD5tZ3qEfM4Fxi8coqRZHHXc3vQunBO1qP5lo+6Qrda
+acfImw5lW31sB5K16VZmQcWN3+nEjNrUIbOCbaacQ7Pw2t1iiO6uL4H1fD055ZL6
+VE4yqzVuYIyWmaDfA4JleJ4SwM7YXy5F1clr5FMvx7iMtKa4mPGDtWttZASI8MAZ
+Bm8CVQpyKpdjSnhxtr7qX5WPAYY=
+-----END CERTIFICATE-----

@@ -1,0 +1,107 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            04:8a:5a:46:87:59:08:10:e0:de:c3:fd:18:a5:d7:d6:07:9c
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3
+        Validity
+            Not Before: Nov  4 22:10:46 2020 GMT
+            Not After : Feb  2 22:10:46 2021 GMT
+        Subject: CN=sean.taipei
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b5:b9:af:0f:71:63:1c:8c:d2:80:6f:ef:47:72:
+                    c6:51:d8:83:f9:9a:4a:f6:ba:77:6d:b5:ed:27:b2:
+                    52:0c:e7:c8:20:84:cb:52:0e:7f:f4:53:ea:c1:02:
+                    fe:38:46:e6:b4:04:f3:3c:c0:5f:fc:9f:8b:1e:e2:
+                    d3:45:60:c5:30:bd:92:20:a1:41:ff:6b:4c:ad:e0:
+                    dd:cc:f4:1d:c6:32:3b:d5:49:3e:a5:c5:59:25:dd:
+                    71:e6:14:d3:b9:f8:2b:16:ca:bd:80:8c:07:6c:6c:
+                    89:ff:f0:9d:c1:c1:65:b2:fb:07:14:43:61:3e:96:
+                    21:3d:40:17:97:ce:7b:3e:e5:e8:d4:35:d1:95:01:
+                    c1:91:b0:0f:10:69:5e:e9:d1:42:8b:cd:ef:6e:65:
+                    35:27:dc:d5:5a:a7:52:55:30:bc:94:02:da:de:12:
+                    88:28:b3:85:a9:ba:73:a7:53:36:b1:e5:67:c4:5b:
+                    df:59:39:eb:84:85:a9:d5:5e:30:f0:46:01:6c:10:
+                    4c:99:cc:0d:69:d6:c1:36:5d:b9:1d:51:5a:de:c8:
+                    07:89:35:11:2c:72:9a:f1:2b:1e:f0:76:e5:6b:55:
+                    f2:c2:17:5a:dd:9b:29:d0:d6:95:a8:ad:d0:f3:a4:
+                    e4:16:3d:41:04:32:17:ad:04:60:a4:33:e3:8f:6e:
+                    76:2f
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                0C:E3:ED:F5:3A:06:EA:B1:D3:BB:A5:4A:A1:26:54:AB:5C:00:D4:A7
+            X509v3 Authority Key Identifier: 
+                keyid:A8:4A:6A:63:04:7D:DD:BA:E6:D1:39:B7:A6:45:65:EF:F3:A8:EC:A1
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.int-x3.letsencrypt.org
+                CA Issuers - URI:http://cert.int-x3.letsencrypt.org/
+
+            X509v3 Subject Alternative Name: 
+                DNS:mail.sean.taipei, DNS:sean.cat, DNS:sean.taipei, DNS:telegre.at, DNS:tlgr.tw
+            X509v3 Certificate Policies: 
+                Policy: 2.23.140.1.2.1
+                Policy: 1.3.6.1.4.1.44947.1.1.1
+                  CPS: http://cps.letsencrypt.org
+
+            1.3.6.1.4.1.11129.2.4.2: 
+                ......u..\./.w0".T..0.V..M..3.../ ..N.d....u...c.....F0D. sh.!.@..Y..MQ.....6....|d.s...Q.. I.}.$.....Az.1..S.`.....N.....j..v.oSv.1.1.....Q..w.......).....7.....u.........G0E. _Iou9.U.....;%.../.KQv.F\........!.....O.O........Xp..L.. .U2...X..
+    Signature Algorithm: sha256WithRSAEncryption
+         96:f9:3e:52:7f:0a:a5:81:d7:b0:26:08:98:88:a4:5a:f4:15:
+         4f:7b:5d:e5:75:0f:9c:95:85:bf:49:b3:84:f8:b4:33:5f:da:
+         ec:7e:2b:f0:9d:8f:c2:23:15:f3:b4:12:64:8b:dd:86:58:62:
+         1f:f9:41:82:f5:f6:16:60:9d:5c:68:b8:ca:89:23:63:84:25:
+         50:37:97:ab:cc:15:0e:e1:2c:5f:c5:4c:1e:fc:35:26:c0:ca:
+         19:c7:96:4b:ff:ce:7e:12:4f:8f:4e:74:56:ff:fc:8b:e1:03:
+         32:81:1c:85:3d:c5:ba:40:d1:bd:ba:98:91:39:dd:10:78:b9:
+         fb:94:8a:ef:05:b6:75:d0:66:1e:00:6c:13:77:50:29:2b:76:
+         11:5c:f9:04:60:a1:f1:df:0c:f5:61:78:5b:a8:ae:1a:b5:4d:
+         eb:97:f7:26:af:fd:45:12:94:7f:02:d2:3a:56:ca:02:bb:90:
+         f4:09:50:86:62:09:b7:d8:02:1e:d6:9b:1b:d2:4b:cc:08:11:
+         8c:20:03:a1:4c:e0:1b:c6:61:96:a1:7a:6d:0a:d8:4f:4f:a1:
+         9b:70:ca:b0:ea:1c:aa:55:10:4b:47:aa:8d:58:38:f5:a9:b8:
+         ee:5d:7f:93:49:63:25:46:2f:6d:7d:97:60:af:25:01:4b:7c:
+         cb:34:1b:3b
+-----BEGIN CERTIFICATE-----
+MIIFfjCCBGagAwIBAgISBIpaRodZCBDg3sP9GKXX1gecMA0GCSqGSIb3DQEBCwUA
+MEoxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MSMwIQYDVQQD
+ExpMZXQncyBFbmNyeXB0IEF1dGhvcml0eSBYMzAeFw0yMDExMDQyMjEwNDZaFw0y
+MTAyMDIyMjEwNDZaMBYxFDASBgNVBAMTC3NlYW4udGFpcGVpMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbmvD3FjHIzSgG/vR3LGUdiD+ZpK9rp3bbXt
+J7JSDOfIIITLUg5/9FPqwQL+OEbmtATzPMBf/J+LHuLTRWDFML2SIKFB/2tMreDd
+zPQdxjI71Uk+pcVZJd1x5hTTufgrFsq9gIwHbGyJ//CdwcFlsvsHFENhPpYhPUAX
+l857PuXo1DXRlQHBkbAPEGle6dFCi83vbmU1J9zVWqdSVTC8lALa3hKIKLOFqbpz
+p1M2seVnxFvfWTnrhIWp1V4w8EYBbBBMmcwNadbBNl25HVFa3sgHiTURLHKa8Sse
+8Hbla1Xywhda3Zsp0NaVqK3Q86TkFj1BBDIXrQRgpDPjj252LwIDAQABo4ICkDCC
+AowwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
+AjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQM4+31OgbqsdO7pUqhJlSrXADUpzAf
+BgNVHSMEGDAWgBSoSmpjBH3duubRObemRWXv86jsoTBvBggrBgEFBQcBAQRjMGEw
+LgYIKwYBBQUHMAGGImh0dHA6Ly9vY3NwLmludC14My5sZXRzZW5jcnlwdC5vcmcw
+LwYIKwYBBQUHMAKGI2h0dHA6Ly9jZXJ0LmludC14My5sZXRzZW5jcnlwdC5vcmcv
+MEcGA1UdEQRAMD6CEG1haWwuc2Vhbi50YWlwZWmCCHNlYW4uY2F0ggtzZWFuLnRh
+aXBlaYIKdGVsZWdyZS5hdIIHdGxnci50dzBMBgNVHSAERTBDMAgGBmeBDAECATA3
+BgsrBgEEAYLfEwEBATAoMCYGCCsGAQUFBwIBFhpodHRwOi8vY3BzLmxldHNlbmNy
+eXB0Lm9yZzCCAQMGCisGAQQB1nkCBAIEgfQEgfEA7wB1APZclC/RdzAiFFQYCDCU
+Vo7jTRMZM7/fDC8gC8xO8WTjAAABdZWG4mMAAAQDAEYwRAIgc2i4Id9A/slZ85tN
+UbcRkxOKNhn17Jp8ZKNzDO2HUcgCIEmSfeAk1p8O15NBepQxnLZT1GDi43/us07Y
+6umU3WqVAHYAb1N2rDHwMRnYmQCkURX/dxUcEdkCwQApBo2yCJo32RMAAAF1lYbi
+9wAABAMARzBFAiBfSW91OQ5V57gOnB87JYjV+y/9S1F27EZcu7LlA9DwzgIhAK4A
+LpdPlU/y1wXLrIX011hwkIpMFrQgzVUyz/fzWATwMA0GCSqGSIb3DQEBCwUAA4IB
+AQCW+T5SfwqlgdewJgiYiKRa9BVPe13ldQ+clYW/SbOE+LQzX9rsfivwnY/CIxXz
+tBJki92GWGIf+UGC9fYWYJ1caLjKiSNjhCVQN5erzBUO4SxfxUwe/DUmwMoZx5ZL
+/85+Ek+PTnRW//yL4QMygRyFPcW6QNG9upiROd0QeLn7lIrvBbZ10GYeAGwTd1Ap
+K3YRXPkEYKHx3wz1YXhbqK4atU3rl/cmr/1FEpR/AtI6VsoCu5D0CVCGYgm32AIe
+1psb0kvMCBGMIAOhTOAbxmGWoXptCthPT6GbcMqw6hyqVRBLR6qNWDj1qbjuXX+T
+SWMlRi9tfZdgryUBS3zLNBs7
+-----END CERTIFICATE-----
