@@ -3,15 +3,15 @@ Certificate:
         Version: 3 (0x2)
         Serial Number:
             91:2b:08:4a:cf:0c:18:a7:53:f6:d6:2e:25:a7:5f:5a
-    Signature Algorithm: sha256WithRSAEncryption
-        Issuer: C=US, O=Internet Security Research Group, CN=ISRG Root X1
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = Internet Security Research Group, CN = ISRG Root X1
         Validity
             Not Before: Sep  4 00:00:00 2020 GMT
             Not After : Sep 15 16:00:00 2025 GMT
-        Subject: C=US, O=Let's Encrypt, CN=R3
+        Subject: C = US, O = Let's Encrypt, CN = R3
         Subject Public Key Info:
             Public Key Algorithm: rsaEncryption
-                Public-Key: (2048 bit)
+                RSA Public-Key: (2048 bit)
                 Modulus:
                     00:bb:02:15:28:cc:f6:a0:94:d3:0f:12:ec:8d:55:
                     92:c3:f8:82:f1:99:a6:7a:42:88:a7:5d:26:aa:b5:

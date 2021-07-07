@@ -3,15 +3,15 @@ Certificate:
         Version: 3 (0x2)
         Serial Number:
             04:92:f6:c6:f8:42:2f:7b:35:8a:6b:cb:67:28:45:64:c1:f0
-    Signature Algorithm: sha256WithRSAEncryption
-        Issuer: C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
         Validity
             Not Before: May  8 05:11:33 2020 GMT
             Not After : Aug  6 05:11:33 2020 GMT
-        Subject: CN=sean.taipei
+        Subject: CN = sean.taipei
         Subject Public Key Info:
             Public Key Algorithm: rsaEncryption
-                Public-Key: (2048 bit)
+                RSA Public-Key: (2048 bit)
                 Modulus:
                     00:ca:54:43:db:bf:18:a8:30:ee:80:19:b6:6a:45:
                     c1:d9:e4:37:ed:95:9e:e3:7b:ad:19:38:6b:e2:b5:
@@ -55,10 +55,31 @@ Certificate:
                 Policy: 1.3.6.1.4.1.44947.1.1.1
                   CPS: http://cps.letsencrypt.org
 
-            1.3.6.1.4.1.11129.2.4.2: 
-                ......u.^.s..V...6H}.I.2z.........u..qEX...q.........F0D. Eo............V....=w.l....M..... .=S...4.>...@;1.......?.v..zq.
-}.v......... N.f.+..% gk..p..IS-...^...q.........G0E.!.......o..0.O.B...f....c>.W...pp.. .@$-'+^.7.B.......d..
-.}..x+....
+            CT Precertificate SCTs: 
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 5E:A7:73:F9:DF:56:C0:E7:B5:36:48:7D:D0:49:E0:32:
+                                7A:91:9A:0C:84:A1:12:12:84:18:75:96:81:71:45:58
+                    Timestamp : May  8 06:11:33.154 2020 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:44:02:20:45:6F:89:FF:9D:CC:11:95:AC:B2:E9:1D:
+                                BC:FF:56:06:7F:C2:EC:3D:77:95:6C:9D:B1:07:A0:4D:
+                                82:8E:D0:B5:02:20:11:3D:53:1B:DD:A6:34:04:3E:DE:
+                                D8:C8:40:3B:31:A8:18:AE:1F:04:B5:9C:3F:8B:76:BB:
+                                93:7A:71:8E:0A:7D
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : B2:1E:05:CC:8B:A2:CD:8A:20:4E:87:66:F9:2B:B9:8A:
+                                25:20:67:6B:DA:FA:70:E7:B2:49:53:2D:EF:8B:90:5E
+                    Timestamp : May  8 06:11:33.146 2020 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:45:02:21:00:91:BD:82:ED:81:D8:6F:12:D0:30:E8:
+                                4F:CA:42:C8:D5:FC:66:F8:85:D4:A0:63:3E:F7:57:A1:
+                                DC:8B:70:70:93:02:20:14:40:24:2D:27:2B:5E:DC:37:
+                                02:42:84:8D:E2:F4:CE:B7:DE:64:B8:D0:0A:EB:7D:FD:
+                                B3:78:2B:A7:7F:DB:05
     Signature Algorithm: sha256WithRSAEncryption
          5b:ff:aa:d9:f0:0e:59:de:01:d8:7b:0c:a1:c9:b1:f2:20:e5:
          6c:98:58:06:a8:0d:31:ee:83:82:20:ac:03:72:d4:08:cb:11:

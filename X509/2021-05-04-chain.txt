@@ -3,15 +3,15 @@ Certificate:
         Version: 3 (0x2)
         Serial Number:
             40:01:75:04:83:14:a4:c8:21:8c:84:a9:0c:16:cd:df
-    Signature Algorithm: sha256WithRSAEncryption
-        Issuer: O=Digital Signature Trust Co., CN=DST Root CA X3
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: O = Digital Signature Trust Co., CN = DST Root CA X3
         Validity
             Not Before: Oct  7 19:21:40 2020 GMT
             Not After : Sep 29 19:21:40 2021 GMT
-        Subject: C=US, O=Let's Encrypt, CN=R3
+        Subject: C = US, O = Let's Encrypt, CN = R3
         Subject Public Key Info:
             Public Key Algorithm: rsaEncryption
-                Public-Key: (2048 bit)
+                RSA Public-Key: (2048 bit)
                 Modulus:
                     00:bb:02:15:28:cc:f6:a0:94:d3:0f:12:ec:8d:55:
                     92:c3:f8:82:f1:99:a6:7a:42:88:a7:5d:26:aa:b5:

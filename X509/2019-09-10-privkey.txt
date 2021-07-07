@@ -1,4 +1,4 @@
-Private-Key: (2048 bit)
+RSA Private-Key: (2048 bit, 2 primes)
 modulus:
     00:b7:39:b5:36:1b:ea:0b:4f:10:be:61:60:b8:f0:
     ac:d1:08:98:ea:02:d0:8f:55:29:c7:e3:09:f5:6c:
